@@ -66,3 +66,9 @@ Prasad Lanka
 B.Tech CSE-AIML
 
 GitHub: https://github.com/Prasad-Lanka
+This project uses the TMDB 5000 Movie ,TMDB 5000 credits datasets.  
+Due to file size limitations, the datasets are not included in this repository.
+
+Dataset source: TMDB 5000 Movie Dataset ,TMDB 5000Credits Dataset from Kaggle.
+
+To run the notebook from scratch, download the dataset and place the CSV files in the project folder.
